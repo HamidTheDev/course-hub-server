@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "React For Beginners - Full Couse",
+        "price": 109.5,
+        "description": "React (sometimes spelled React.js or ReactJS) is one of the most popular JavaScript libraries to develop powerful, interactive web applications. You’ll learn how to start with React and build up to dynamic user interfaces. You’ll work with React specific concepts like: JSX, components, state, props, hooks, and more. Take this course to gain an edge as a front-end or full-stack web developer.",
+        "category": "Web Dev.",
+        "image": "https://www.freecodecamp.org/news/content/images/2021/07/reactcourse.png",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 2,
+        "title": "Python3 Full Course",
+        "price": 100.5,
+        "description": "If you’re looking for a programming language that’s flexible and easy to read, try learning Python. It’s one of the most popular languages today, and programming in Python is used for everything from web and software development to data science and analytics to quality assurance.",
+        "category": "Programming",
+        "image": "https://i.ytimg.com/vi/rfscVS0vtbw/maxresdefault.jpg",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+    },
+    {
+        "id": 3,
+        "title": "Learn C++ - Full Course",
+        "price": 90.5,
+        "description": "With its adaptability and fast rendering, you’ll find the C++ programming language used everywhere, from web browsers to game development and operating systems to science and machine learning tools. This course will help you learn C++ basics and give you hands-on experience to create your own projects and work with computer memory.",
+        "category": "Programming",
+        "image": "https://www.freecodecamp.org/news/content/images/2022/02/cpp31.png",
+        "rating": {
+            "rate": 4.7,
+            "count": 500
+        }
+    },
+    {
+        "id": 4,
+        "title": "Java Full Course(Advanced)",
+        "price": 85.5,
+        "description": "Popular for its versatility and ability to create a wide variety of applications, learning Java opens up your possibilities when coding. With it, you’ll be able to develop large systems, software, and mobile applications — and even create mobile apps for Android. Learn important Java coding fundamentals and practice your new skills with real-world projects.",
+        "category": "Programming",
+        "image": "https://www.freecodecamp.org/news/content/images/2022/09/java.png",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 5,
+        "title": "JavaScript Advanced Course",
+        "price": 200,
+        "description": "You interact with JavaScript code all the time — you just might not realize it. It powers dynamic behavior on websites (like this one) and plays an important role in many fields, like front- and back-end engineering, game and mobile development, virtual reality, and more. In this course, you’ll learn JavaScript fundamentals that will be helpful as you dive deeper into more advanced topics.",
+        "category": "Programming",
+        "image": "https://www.freecodecamp.org/news/content/images/2021/06/javascriptfull.png",
+        "rating": {
+            "rate": 4.6,
+            "count": 400
+        }
+    },
+    {
+        "id": 6,
+        "title": "React With WordPress-(Next Level)",
+        "price": 168,
+        "description": "The WordPress REST API will help you build the back-end foundation for your web application development. So it's a good choice for your web application back-end technology if you are building a content-driven solution. WordPress will smoothly with other technologies as well also you can use Node.js as the focus of your application to connect to other RESTful services.",
+        "category": "Web Dev.",
+        "image": "https://cdn-media-1.freecodecamp.org/images/1*sKZ0nC0gyc5tiqlVBfu_uQ.png",
+        "rating": {
+            "rate": 3.9,
+            "count": 70
+        }
+    }
+]
